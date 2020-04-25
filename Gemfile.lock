@@ -65,6 +65,7 @@ DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-paginate
   jekyll-seo-tag
+  kramdown (~> 2.1.0)
 
 BUNDLED WITH
    2.1.4
